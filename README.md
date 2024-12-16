@@ -113,5 +113,7 @@ Conversations are stored in a `conversation_history.json` file for easy review. 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgements
+* Swarms framework enabling for modular, scalable, and sophisticated agent swarm configurations.
 * Groq for providing the API used in the system.
 * Gradio for the powerful and easy-to-use interface for machine learning models.
+
