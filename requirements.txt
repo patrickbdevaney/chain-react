@@ -1,0 +1,6 @@
+swarms
+groq
+python-dotenv
+gradio
+termcolor
+pathos
